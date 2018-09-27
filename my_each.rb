@@ -17,6 +17,6 @@ end
 
 def my_each(array)
   array.collect do |x|
-    "#{x}"
+    "x"
 end
 end
