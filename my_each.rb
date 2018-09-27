@@ -9,7 +9,7 @@ def my_each(array)
 
   array
 else
-  puts = "This bloack should not run!"
+  "This block should not run!"
 end
 end
 
